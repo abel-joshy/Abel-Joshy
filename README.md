@@ -10,41 +10,6 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class AbelJoshy:
-    def __init__(self):
-        self.name = "Abel Joshy"
-        self.location = "Bengaluru, India"
-        self.degree = "B.E. Computer Science Engineering"
-        self.role = "Full Stack Developer"
-
-        self.stack = {
-            "languages": ["Python", "JavaScript", "HTML", "CSS", "Shell"],
-            "frontend": ["React.js"],
-            "backend": ["Node.js", "Express.js", "REST APIs", "JWT", "RBAC"],
-            "databases": ["MongoDB", "SQL"],
-            "cloud_devops": ["AWS (EC2, S3, IAM)", "Docker",
-                             "Kubernetes", "Terraform",
-                             "GitHub Actions", "CI/CD"]
-        }
-
-        self.currently_learning = [
-            "Kubernetes (deeper hands-on)",
-            "Terraform for IaC",
-            "System Design"
-        ]
-
-        self.fun_fact = "I once built a hands-free mouse controlled entirely by hand gestures."
-
-    def motto(self):
-        return "Take ownership, keep learning, ship it."
-
-
-me = AbelJoshy()
-print(me.motto())
-```
-
-<br clear="right"/>
 
 ## 🛠️ Tech Stack
 
